@@ -4,7 +4,7 @@ numpy==1.15.1
 pandas==0.23.4
 keras==2.2.4
 scikit-learn==0.20.0
-torch==0.4.1
+torch==2.2.0
 torchvision==0.2.1
 wave==0.0.2
 pyaudio==0.2.11
